@@ -1,6 +1,8 @@
-# Half-Life 2 Cosmonaut
- The official github repository of the Half-Life 2: Cosmonaut modification for Garry's Mod.
 
+# Half-Life 2 Cosmonaut
+<p align="center">
+ The official github repository of the Half-Life 2: Cosmonaut modification for Garry's Mod.
+    </p>
 
 <p align="center">
   <b>Links:</b><br>
@@ -16,6 +18,8 @@
 <img src="https://i.imgur.com/BlqPSAc.png">
 </p>
 
+## Overview
+
 Have you ever wanted to play the Cosmonaut modification, which was originally developed for Half-Life 2: Half-Life 2: Episode Two by Dolmo, but 
 in Garry's Mod with multiplayer support? Then you've exactly hit the nail on the head with this modification.
 
@@ -23,7 +27,7 @@ in Garry's Mod with multiplayer support? Then you've exactly hit the nail on the
 HL2: Cosmonaut aims to provide a seamless cooperative as well as singleplayer experience for the aformentioned campaign by Dolmo, by inter alias, utilizing the Lambda Co-Op framework.
 
 
-Dolmo's original ModDB page can be accessed here: https://www.moddb.com/mods/cosmonaut
+Dolmo's original ModDB page can be accessed through the following link: https://www.moddb.com/mods/cosmonaut
 
 
 For further information, feel free to check out the steam workshop page or join the community discord server.
