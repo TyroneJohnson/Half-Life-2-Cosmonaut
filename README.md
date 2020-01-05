@@ -23,4 +23,7 @@ in Garry's Mod with multiplayer support? Then you've exactly hit the nail on the
 HL2: Cosmonaut aims to provide a seamless cooperative as well as singleplayer experience for the aformentioned campaign by Dolmo, by inter alias, utilizing the Lambda Co-Op framework.
 
 
+Dolmo's original ModDB page can be accessed here: https://www.moddb.com/mods/cosmonaut
+
+
 For further information, feel free to check out the steam workshop page or join the community discord server.
